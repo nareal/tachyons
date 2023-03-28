@@ -1,0 +1,18 @@
+---
+title: "Tachyons quarto filter"
+filters:
+  - tachyons
+---
+
+## [Tachyons example]{.baskerville .dark-blue}
+
+
+:::: {.pa4}
+::: {.athelas .ml0 .mt0 .pl4 .black-90 .bl .bw2 .b--blue}
+[Discipline in typography is a prime virtue. Individuality must be secured by means that are rational. Distinction needs to be won by simplicity and restraint. It is equally true that these qualities need to be infused wiht a certain spirit and vitality, or they degenerate into dullness and mediocrity.]{.f5 .f4-m .f3-l .lh-copy .measure .mt0}
+
+[ --- Stanley Morison]{.f6 .ttu .tracked .fs-normal}
+:::
+::::
+
+This reproduces this component: [TACHYONS - Quotes | Left Border](https://tachyons.io/components/quotes/left-border/index.html)
