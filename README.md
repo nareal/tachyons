@@ -9,7 +9,14 @@ It allows changing the design of HTML elements by adding classes to them.
 
 ## Installing
 
-To install do:
+
+If you want to start with a template do:
+```bash
+quarto use template nareal/tachyons
+```
+
+
+You just want to install the extension use:
 
 ```bash
 quarto add nareal/tachyons
@@ -53,5 +60,5 @@ To learn more:
 
 ## Example
 
-Here is the source code for a minimal example: [example.qmd](example.qmd).
+Here is the source code for a minimal example: [example.qmd](example.qmd), and the resulting [rendered HTML file](https://nareal.github.io/tachyons/example.html).
 
