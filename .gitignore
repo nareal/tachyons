@@ -3,3 +3,6 @@
 *_files/
 /.luarc.json
 !example.html
+_quarto.yaml
+/.quarto/
+!docs/*.html
