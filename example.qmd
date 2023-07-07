@@ -2,6 +2,7 @@
 title: "Tachyons quarto filter"
 filters:
   - tachyons
+self-contained: true
 ---
 
 ## [Tachyons example]{.baskerville .dark-blue}
