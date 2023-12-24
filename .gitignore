@@ -5,4 +5,5 @@
 !example.html
 _quarto.yaml
 /.quarto/
-!docs/*.html
+docs/
+/docs/example.html

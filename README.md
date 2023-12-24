@@ -1,5 +1,7 @@
 # Tachyons Extension For Quarto
 
+![GitHub Action Status](https://img.shields.io/github/actions/workflow/status/nareal/tachyons/publish.yml)
+
 This extension adds the [TACHYONS - Css Toolkit](http://tachyons.io/) to a quarto HTML document or quarto revealjs presentation. 
 
 > Functional CSS for humans.
@@ -60,5 +62,5 @@ To learn more:
 
 ## Example
 
-Here is the source code for a minimal example: [example.qmd](example.qmd), and the resulting [rendered HTML file](https://nareal.github.io/tachyons/example.html).
+Here is the source code for a minimal example: [example.qmd](example.qmd), and the resulting [rendered HTML file](https://nareal.github.io/tachyons/).
 
